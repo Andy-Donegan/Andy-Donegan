@@ -4,12 +4,12 @@
 
 ## I'm a Father, Developer, and Ex Volunteer Swimming Coach/Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just finished a Xamarin basic demo App : [Nhs Demo App][nhsdemoapp]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with an employer 😁
 - 🥅 2022 Goals: Get a job !!
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- ⚡ Fun fact: I have no sense of humour what so ever.
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <br />
 
 ### Languages and Tools:
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 </a>
 
 [website]: https://mvcdemoajd.azurewebsites.net
-[course]: http://vsCodeHero.com
+[nhsdemoapp]: https://github.com/Andy-Donegan/NhsDemoApp
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr

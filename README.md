@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-e0xfz9anb-andy-donegan.vercel.app/api?username=Andy-Donegan&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-donegan&langs_count=8)](https://github.com/andy-donegan/github-readme-stats)

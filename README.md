@@ -7,7 +7,7 @@
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Get a job !!
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
@@ -66,10 +66,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/andy-donegan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-donegan&langs_count=8" />
 </a>
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-
+<a href="https://github.com/andy-donegan/NhsDemoApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-donegan&repo=NhsDemoApp" />
+</a>
 
 [website]: https://mvcdemoajd.azurewebsites.net
 [course]: http://vsCodeHero.com

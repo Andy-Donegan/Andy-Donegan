@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=MvcDemoAJD.AzureWebSites.Net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mvcdemoajd.azurewebsites.net)
 
-## I'm a Single Father, Developer, and Ex Volunteer Swimming Coach/Teacher!!
+## I'm a Father, Developer, and Ex Volunteer Swimming Coach/Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣

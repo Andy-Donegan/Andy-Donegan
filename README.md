@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-e0xfz9anb-andy-donegan.vercel.app" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-e0xfz9anb-andy-donegan.vercel.app/api?username=Andy-Donegan&show_icons=true&hide_border=true" />
 
 </details>

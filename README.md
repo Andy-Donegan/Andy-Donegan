@@ -1,6 +1,6 @@
 ### Hi there, I'm [Andy Donegan][website] 👋 
 
-[![Website](https://img.shields.io/website?label=MvcDemoAJD.AzureWebSites.Net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mvcdemoajd.azurewebsites.net)
+[![Website](https://img.shields.io/website?label=MvcDemoAppAJD.AzureWebSites.Net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mvcdemosppajd.azurewebsites.net)
 
 ## I'm a Father, Developer, and Ex Volunteer Swimming Coach/Teacher!!
 

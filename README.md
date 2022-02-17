@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-donegan&repo=NhsDemoApp" />
 </a>
 
-[website]: https://mvcdemoajd.azurewebsites.net
+[website]: https://mvcdemoappajd.azurewebsites.net
 [nhsdemoapp]: https://github.com/Andy-Donegan/NhsDemoApp
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr

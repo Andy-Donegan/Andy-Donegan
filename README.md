@@ -20,7 +20,7 @@
 <img height="42px" align="left" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="42px" align="left" title="Node Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="42px" align="left" title="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-<img height="42px" align="left" title="Apache Cordova" src="~/Images/cordova_logo_dark_gray_large.png"/>
+<img height="42px" align="left" title="Apache Cordova" src="~/cordova_logo_dark_gray_large.png"/>
 <img height="42px" align="left" title="Ajax" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
 <img height="42px" align="left" title="Json" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 

@@ -36,10 +36,7 @@
 <img height="42px" align="left" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img height="42px" align="left" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img height="42px" align="left" title="Adobe Illustrator"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-
-<br />
-<br />
+<img height="42px" title="Adobe Illustrator"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 
 ---
 

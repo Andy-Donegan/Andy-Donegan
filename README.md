@@ -5,7 +5,7 @@
 ## I'm a Father, Developer, and Ex Volunteer Swimming Coach/Teacher!!
 
 - 🔭 I just finished a Xamarin basic demo App : [Nhs Demo App][nhsdemoapp]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning a lot 🤣
 - 👯 I’m looking to collaborate with an employer 😁
 - 🥅 2022 Goals: Get a job !!
 - ⚡ Fun fact: I have no sense of humour what so ever.
